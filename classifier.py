@@ -3,7 +3,7 @@
 ---
 ---
 ## Copyright © 2023 ~ MIT License
-> Sjors Weggeman, University of Groningen
+> S. Weggeman, University of Groningen
 ---
 ---
 """
