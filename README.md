@@ -8,7 +8,7 @@
 This repository contains the Python code for a Support Vector Machine (SVM) trained to determine the authenticity of laughter based on its acoustic features.
 The classifier functions as a demonstrator for my thesis for the MSc Voice Technology at the University of Groningen:
 
-### "*The relevance of using authentic laughter data in natural laughter synthesis; A case study on LaughNet*" (2022/2023)
+#### "*The relevance of using authentic laughter data in natural laughter synthesis; A case study on LaughNet*" (2022/2023)
 
 ## Code description
 The code consists of 5 parts:
